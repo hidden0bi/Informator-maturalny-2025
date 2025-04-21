@@ -1,4 +1,4 @@
-Informator maturalny 2025 w roszerzonej (no bo w jakiej innej) zrobionej w pythonie oraz kapitalistycznym śnie billiego bramki, czyli Excelu i Accessie. Nie będę zgrywał bohatera, dużo tutaj pomagały AIjce, głównie deepseek.
+Informator maturalny 2025 w roszerzonej (no bo w jakiej innej) zrobionej w pythonie oraz kapitalistycznym śnie billiego bramki, czyli Excelu i Accessie. Nie będę zgrywał bohatera, dużo tutaj pomagały AIjce, głównie deepseek, ale też cloude i chatgpt
 
 link do arkusza z arkusze.pl:
 * https://arkusze.pl/informatory/informator-maturalny-informatyka-2025.pdf
