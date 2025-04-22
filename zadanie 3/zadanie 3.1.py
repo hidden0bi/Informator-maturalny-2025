@@ -12,13 +12,6 @@ for linijka in linijki:
     dlugosc = b - a + 1
     dlugosci.append(dlugosc)
     dlugosci.sort()
-
     przedzial.append((a, b))
-
-
-
-
-
-
 
 print(dlugosci[0],dlugosci[1])

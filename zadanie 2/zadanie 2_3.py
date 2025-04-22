@@ -18,9 +18,6 @@ for linijka in linijki:
         elif pojedyncza == ']':
             glebokosc -= 1
 
-
-
-
     zbior.append((linijka, max_glebokosc))
 
 print(zbior)
