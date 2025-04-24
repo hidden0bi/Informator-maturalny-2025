@@ -18,11 +18,17 @@ def antypalindrom(s):
             warunek = False
     return warunek
 
-file = open('dane6przyklad.txt','r')
+file = open('dane6.txt','r')
 linijki = file.readlines()
 
+lista = []
 for linijka in linijki:
     linijka = linijka.strip()
 
     if antypalindrom(linijka):
         print(f'{linijka}\n')
+        lista.append(linijka)
+
+with open('zadanie 6_3.txt','w') as wyniki:
+    for anty in lista:
+        wyniki.write(anty + '\n')
