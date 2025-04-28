@@ -4,7 +4,7 @@ Informator maturalny 2025 w rozszerzonej (no bo w jakiej innej) zrobionej w Pyth
 
 
 
-## Links
+## Linkacze
 
 Link do arkusza z arkusze.pl:
 * [Informator Maturalny PDF](https://arkusze.pl/informatory/informator-maturalny-informatyka-2025.pdf)
