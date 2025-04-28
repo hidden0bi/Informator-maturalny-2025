@@ -19,5 +19,5 @@ Darmowe programy z dobreprogramy.pl wink wink:
 * [Weksel i Akses (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 uwaga, czasami w excelu jebie sie import i trzeba to zrobic na okolo, ja to robie tak:
-Import z pliku tekstowego w Accessie > Eksport do pliku z rozszerzeniem .accdb > Import w Excelu z Accessa
+Import z pliku tekstowego w Accessie > Zapisz jako [coklowiek].accdb > Import z bazy danych w Excelu z Accessa
 i wtedy powinny dzialac tabele przestawne z datami jak należy
