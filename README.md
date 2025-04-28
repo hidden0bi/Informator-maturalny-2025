@@ -17,3 +17,7 @@ Inne repa z infromatorami:
 Darmowe programy z dobreprogramy.pl wink wink:
 * [Pycharm Plebs Edition](https://www.jetbrains.com/pycharm/download/?section=windows)
 * [Weksel i Akses (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+uwaga, czasami w excelu jebie sie import i trzeba to zrobic na okolo, ja to robie tak:
+Import z pliku tekstowego w Accessie > Eksport do pliku z rozszerzeniem .accdb > Import w Excelu z Accessa
+i wtedy powinny dzialac tabele przestawne z datami jak należy
